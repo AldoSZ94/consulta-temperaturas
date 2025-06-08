@@ -1,6 +1,6 @@
 # 🌡️ Visualización de Temperaturas Mensuales en Ciudades Argentinas
 
-Este proyecto permite al usuario explorar visualmente los registros de temperatura máxima y mínima en distintas ciudades de Argentina durante el año 2023. Se realiza una selección interactiva de ciudad y mes, y se genera un gráfico de líneas con las temperaturas correspondientes a cada día del mes.
+Este es mi proyecto N°4 de mi curso de Udemy **"Python para Data Science & Machine Learning en 18 días"**. Este proyecto permite al usuario explorar visualmente los registros de temperatura máxima y mínima en distintas ciudades de Argentina durante el año 2023. Se realiza una selección interactiva de ciudad y mes, y se genera un gráfico de líneas con las temperaturas correspondientes a cada día del mes.
 
 ---
 
